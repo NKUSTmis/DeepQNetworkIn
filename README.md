@@ -46,13 +46,22 @@ Origin_DQN.npz 為TEST_Origin_DQN訓練完成的檔案。
 2019_Both_dqn_model就是2010-2018訓練，2019測試，資料集為S&P500+石油期貨+黃金期貨，DQN的Q網路。  
 
 //Precision&Recall&F1_Score
+
 以下Epoch都是50
+
 2001_SPY_Precision&Recall 代表訓練期間2001-2018 測試期間2019 使用S&P500
+
 2001_WTI_Precision&Recall 代表訓練期間2001-2018 測試期間2019 使用S&P500 + 石油
+
 2001_Gold_Precision&Recall 代表訓練期間2001-2018 測試期間2019 使用S&P500 + 黃金
+
 2001_Both_Precision&Recall 代表訓練期間2001-2018 測試期間2019 使用S&P500 + 石油 + 黃金
 
+
 2019_SPY_Precision&Recall 代表訓練期間2001-01-01-2010-07-02 測試期間2010-07-02-2019-12-31 使用S&P500
+
 2019_WTI_Precision&Recall 代表訓練期間2001-01-01-2010-07-02 測試期間2010-07-02-2019-12-31 使用S&P500 + 石油
+
 2019_Gold_Precision&Recall 代表訓練期間2001-01-01-2010-07-02 測試期間2010-07-02-2019-12-31 使用S&P500 + 黃金
+
 2019_Both_Precision&Recall 代表訓練期間2001-01-01-2010-07-02 測試期間2010-07-02-2019-12-31 使用S&P500 + 石油 + 黃金
